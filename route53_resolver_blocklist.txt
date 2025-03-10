@@ -1,0 +1,4 @@
+# example of the output, not needed with the package for deployment
+
+malicious-site.com
+phishing-site.org
